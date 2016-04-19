@@ -1,6 +1,3 @@
 test code 1
 
-<<<<<<< HEAD
-Merge 3rd branch. 
-=======
->>>>>>> refs/remotes/origin/master
+-----fresh
