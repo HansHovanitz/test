@@ -1,3 +1,9 @@
 test code 1
 
+<<<<<<< HEAD
 for branch 3
+=======
+Prep to merge into Master. 
+
+Mac Test.
+>>>>>>> origin/master
