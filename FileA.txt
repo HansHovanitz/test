@@ -1,3 +1,5 @@
 test code 1
 
-Branch Multiple
+Branch Multiple 
+
+From newBranch
